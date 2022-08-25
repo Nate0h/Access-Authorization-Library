@@ -1,0 +1,7 @@
+domain_name operation type_name
+domain_name add type_name
+mode god zone
+mode god something
+student god something
+yellow god jewelry
+student god jewelry

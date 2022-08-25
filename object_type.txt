@@ -1,0 +1,10 @@
+object type_name
+shh type_name
+diamond jewelry
+pearls jewelry
+ruby jewelry
+something.pdf document
+something.mp3 audio
+pants clothes
+ zone
+ something
