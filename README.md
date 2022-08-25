@@ -8,5 +8,5 @@ Domains: A collection of zero or more users.
 
 Types: A named collection of zero or more objects. Objects are any string that have meaning to the application.
 
-Access Permissions: Set access right that define operations that domains can perofrm on types (view, delete).
+Access Permissions: Set access right that define operations that domains can perofrm on types.
 
